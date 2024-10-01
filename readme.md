@@ -1,4 +1,4 @@
-# DeputyRyansUltimateBackup V1.0
+# DeputyRyansUltimateBackup
 
 **DeputyRyansUltimateBackup** is an enhancement mod for **Ultimate Backup** by BejoIjo, designed to improve the realism and immersion of backup requests in LSPDFR through refined messaging and notifications.
 
@@ -35,7 +35,7 @@ You can customize the notification texts and other settings within the mod's con
 ---
 
 ## Support
-For support, bug reports, or suggestions, please visit the **DeputyMods Discord Server** https://discord.gg/XDp9ESbaXz or open an issue on the GitHub repository.
+For support, bug reports, or suggestions, please visit the **DeputyMods Discord Server** https://discord.gg/XDp9ESbaXz or open an issue on the **GitHub repository**  https://github.com/deputyryan32/DeputyRyansUltimateBackup.
 
 ---
 *Thank you for using DeputyRyansUltimateBackup. Stay safe out there!*
